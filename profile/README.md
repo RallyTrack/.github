@@ -1,3 +1,4 @@
+<img width="1040" height="523" alt="RallyTrack-rally-replay" src="https://github.com/user-attachments/assets/ca34f738-2078-4c9c-a88a-dd645223c725" />
 # 🏸 RallyTrack
 
 [한국어](#한국어) · [English](#english)
